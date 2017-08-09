@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 title: Cayman theme
 description: Cayman is a clean, responsive theme for GitHub Pages.
+baseurl: "/curly-more/"
+url: "http://theholymcgreal.github.io"
 show_downloads: true
 google_analytics:
+theme: Cayman
+=======
 theme: jekyll-theme-cayman
+>>>>>>> cf0a7068202410f8f3cee7cc00ab2add1a42fa14
